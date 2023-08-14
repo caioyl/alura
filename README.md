@@ -1,4 +1,4 @@
-# data_science
+# alura
 Repositório com projetos voltados ao aprendizado e os notebooks utilizados
 ![image](https://github.com/caioyl/alura/assets/132407979/527d081c-a15c-40c7-b565-fbe6fa8be2ac)
 
