@@ -3,4 +3,4 @@ lista = ['2', 2, '33', 50, 30, '5']
 def conversor_para_float(lista):
   lista_convertida = [float(lista[i]) for i in range(len(lista))]
   return lista_convertida
-conversor_para_float(lista)
+print(conversor_para_float(lista))
