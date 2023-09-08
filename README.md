@@ -10,3 +10,4 @@ Repositório com notebooks e exercícios resolvidos ao longo da realização de 
 
 ![image](https://github.com/caioyl/alura/assets/132407979/6bcbcba5-bcc9-4a06-b6b7-c38f234e336b)
 
+![pandas](https://github.com/caioyl/alura/assets/132407979/05e87ebb-bf50-4bdc-a3dc-90253574f26c)
